@@ -5,7 +5,7 @@ public class LessonVarExample {
         // Объявляем переменные
         int x = 25;
 
-        int y = x;
+        int y = x/5;
 
         int z = x + y;
 
