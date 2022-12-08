@@ -9,6 +9,10 @@ public class LessonVarExample {
 
         int z = x + y;
 
+        int sqr = x*x*x;
+
+        System.out.println((sqr));
+
         /*
         Comment 1
         Comment 2
