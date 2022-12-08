@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class Lesson2 {
 
     public static void main(String[] args) {
@@ -45,6 +47,8 @@ public class Lesson2 {
         String text2 = "World!";
 
         String text3 = text1 + " "+ text2;
+
+        System.out.println(text3);
 
 
 
